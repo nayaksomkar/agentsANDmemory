@@ -1,0 +1,10 @@
+{
+  "model": "openai/gpt-oss-20b",
+  "temperature": 0.5,
+  "SamplesQueries": [
+    "What is 100 degrees Celsius in Fahrenheit and Kelvin?",
+    "Is the word A man a plan a canal Panama a palindrome?",
+    "How many days until 2026-12-25?",
+    "Roll a 20-sided die for me."
+  ]
+}

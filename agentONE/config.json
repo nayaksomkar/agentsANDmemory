@@ -1,0 +1,9 @@
+{
+  "model": "gemini-2.5-flash",
+  "temperature": 0.7,
+  "SamplesQueries": [ "What is 125 * 45 + 78 / 3 ?",
+    "Can you count the words in I am learning LangChain and LangGraph today please",
+    "Please tell me how many characters are in LangChain Framework",
+    "Calculate ((25 + 75) * 4) / 2"
+  ]
+}

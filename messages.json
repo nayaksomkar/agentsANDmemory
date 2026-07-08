@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "Calculate ((25 + 75) * 4) / 2"
+    },
+    {
+        "role": "assistant",
+        "content": "The result is **200**."
+    }
+]

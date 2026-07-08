@@ -1,4 +1,4 @@
-"""agenttwo/main.py — LangChain agent with messages.json as memory."""
+"""agentTWO/main.py — LangChain agent with messages.json as memory."""
 from langchain_core.messages import SystemMessage
 from langchain.agents import create_agent as create
 

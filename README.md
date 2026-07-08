@@ -11,7 +11,7 @@
 | --- | --- |
 | `main.py` | Runs the `agentONE` demo. |
 | `agentONE/` | LangChain agent with calculator / word-count / character-count tools. |
-| `agenttwo/` | Independent LangChain agent with converter / palindrome / date / dice tools. |
+| `agentTWO/` | Independent LangChain agent with converter / palindrome / date / dice tools. |
 | `.env.example` | API key template. |
 
 ---

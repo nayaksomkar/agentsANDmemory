@@ -1,4 +1,4 @@
-# agenttwo
+# agentTWO
 
 > A second LangChain agent, independent of `agentONE` — its own tools, config,
 > and `messages.json` memory. The agent chooses tools itself; no manual routing.
@@ -89,5 +89,5 @@
 ## Run
 
 ```bash
-uv run python agenttwo/main.py
+uv run python agentTWO/main.py
 ```

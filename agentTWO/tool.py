@@ -1,4 +1,4 @@
-"""Tools for agenttwo. Each is a function wrapped with @tool; its name,
+"""Tools for agentTWO. Each is a function wrapped with @tool; its name,
 type hints, and docstring describe it to the agent."""
 from langchain_core.tools import tool
 

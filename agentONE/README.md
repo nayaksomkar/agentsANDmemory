@@ -50,24 +50,6 @@ The agent prints the full conversation history after each query. Sample run:
 ```text
 [
     {"role": "user", "content": "What is 125 * 45 + 78 / 3 ?"},
-    {"role": "assistant", "content": "The result is **5,651**."}
-]
-[
-    {"role": "user", "content": "What is 125 * 45 + 78 / 3 ?"},
-    {"role": "assistant", "content": "The result is **5,651**."},
-    {"role": "user", "content": "Can you count the words in I am learning LangChain and LangGraph today please"},
-    {"role": "assistant", "content": "The sentence contains **7 words**."}
-]
-[
-    {"role": "user", "content": "What is 125 * 45 + 78 / 3 ?"},
-    {"role": "assistant", "content": "The result is **5,651**."},
-    {"role": "user", "content": "Can you count the words in I am learning LangChain and LangGraph today please"},
-    {"role": "assistant", "content": "The sentence contains **7 words**."},
-    {"role": "user", "content": "Please tell me how many characters are in LangChain Framework"},
-    {"role": "assistant", "content": "The phrase **\"LangChain Framework\"** contains **18 characters** (including the space)."}
-]
-[
-    {"role": "user", "content": "What is 125 * 45 + 78 / 3 ?"},
     {"role": "assistant", "content": "The result is **5,651**."},
     {"role": "user", "content": "Can you count the words in I am learning LangChain and LangGraph today please"},
     {"role": "assistant", "content": "The sentence contains **7 words**."},
